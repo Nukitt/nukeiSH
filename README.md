@@ -1,8 +1,6 @@
-# OSN Assignment 3
+# nukeish - Shell in C
 
-## nukeish - Shell in C
-
-### How to run the code
+## How to run the code
 1. Run `make`.
 2. Run `./nukeish`
 
