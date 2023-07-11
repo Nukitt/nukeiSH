@@ -1,0 +1,10 @@
+exit
+ls
+ls
+lsw
+ls
+gedit
+fg 1
+exit
+tok
+exit
